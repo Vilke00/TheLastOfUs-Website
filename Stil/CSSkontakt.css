@@ -1,0 +1,80 @@
+    /*--------------Kontakt--------------*/
+/* Style inputs */
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  margin-top: 5px;
+  margin-bottom: 16px;
+  resize: vertical;
+  border-radius: 10px;
+  box-sizing: border-box;
+}
+
+input[type=submit] {
+  background-color: #4287f5;
+  color: white;
+  padding: 10px 18px;
+  border: none;
+  cursor: pointer;
+  margin-top: 10px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+input[type=submit]:hover {
+  background-color: #427ef5;
+}
+/* Create two columns that float next to eachother */
+.column {
+    color:#fff;
+  float: left;
+  width: 50%;
+  margin-top: -18px;
+  padding: 15px;
+}
+label{
+    color: #fff;
+}
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+#forma{
+  border-radius: 12px;
+  background-color:#1b1b1b;
+  padding: 10px;
+  margin-top: 12px;
+  margin-bottom: 10px;
+  height: 850px;
+}
+*{
+  box-sizing: border-box;
+}
+.fa-phone-alt{
+ color:deepskyblue;
+}
+.fa-envelope{
+ color:deepskyblue;
+}
+/*------Mapa-----*/
+iframe{
+    padding: 40px;
+    width: 600px;
+    height: 450px;
+    margin-left: -25;
+}
+/*---------Footer-------------*/
+#footer{
+	width:100%;
+    background-color: black;
+    color: #fff;
+    padding-top: 5px;
+    padding-bottom: 15px;
+    font-weight: bold;
+}
+.ii{
+	color:white;
+}
