@@ -1,3 +1,5 @@
+Note: For this website to work, you need to have xampp installed and project filed in folder in xampp/htdocs
+
 At the start, there is a short trailer for the game I made, along with buttons for order(picture 3), and for official trailer on youtube
 ![Pocetna](https://user-images.githubusercontent.com/67857389/176723753-c6de852f-214a-4da4-8ef1-771d843727ff.png)
 
